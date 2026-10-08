@@ -33,7 +33,7 @@
 #include <IImgCtx.h>
 #include <stdio.h>
 #include <vfw.h>
-#include "..\exdll\exdll.h"
+#include "exdll.h"
 
 
 HWND mciWnd = NULL, childwnd = NULL;
